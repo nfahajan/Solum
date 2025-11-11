@@ -1,44 +1,12 @@
 ```markdown
-# Solum – Run Guide
-
-Three tasks:
-- **A** Mystic Waves (Python)
-- **B** CargoCraft Fleet (Python)
-- **C** Login Page (React)
-
-## Requirements
-- Python 3.10+
-- Node.js 18+ and npm
-
-## Folder structure
-```
-
-Solum/
-A/
-A_mystic_waves.py
-input_A.txt
-B/
-B_cargocraft_fleet.py
-input_B.txt
-C/
-package.json
-index.html
-vite.config.js
-src/
-App.jsx
-index.css
-main.jsx
-
-````
-
----
-
 ## A) Mystic Waves
+
 Run:
+
 ```bash
 cd A
 python3 A_mystic_waves.py < input_A.txt
-````
+```
 
 Input format:
 
