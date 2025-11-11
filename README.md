@@ -1,4 +1,3 @@
-```markdown
 ## A) Mystic Waves
 
 Run:
